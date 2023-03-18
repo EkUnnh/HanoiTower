@@ -1,0 +1,25 @@
+/* 设置根节点的字体 */
+.root {
+    -fx-font-size: 14pt;
+}
+
+/* 设置 HanoiPane 的样式 */
+.hanoi-pane {
+    -fx-background-color: #ffffff;
+    -fx-border-color: #000000;
+    -fx-border-width: 2px;
+}
+
+/* 设置盘子的样式 */
+.disk {
+    -fx-fill: #ffcc66;
+    -fx-stroke: #663300;
+    -fx-stroke-width: 2;
+}
+
+/* 设置文字的样式 */
+.text {
+    -fx-font-size: 12pt;
+    -fx-fill: #000000;
+}
+	
